@@ -1,3 +1,5 @@
+## 0.1.1
+Don's support gradle >8.0.0 [issue](https://github.com/smenateam/sbp/issues/9)
 ## 0.1.0
 App crash on iOS 17 [issue](https://github.com/smenateam/sbp/issues/7)
 * added check for nil field
