@@ -1192,7 +1192,7 @@ final c2bmembersData ={
     {
       "bankName": "МТС Деньги (ЭКСИ Банк)",
       "logoURL": "https://qr.nspk.ru/proxyapp/logo/bank100000000289.png",
-      "schema": "bank100000000289"
+      "schema": "bank100000000289",
       "package_name": "ru.lewis.dbo"
     },
     {
