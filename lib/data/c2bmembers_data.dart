@@ -1,4 +1,4 @@
-{
+final c2bmembersData ={
   "version": "1.0",
   "dictionary": [
     {
@@ -1206,4 +1206,4 @@
       "schema": "bank100000000301"
     }
   ]
-}
+};
